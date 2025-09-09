@@ -1,4 +1,4 @@
-# 💼 Vyoma Shah – Data Scientist & Engineer
+# 💼 Vyoma Shah – Data Scientist
 
 **Master's in Data Science (Machine Learning & Statistics)**  
 📍 Uppsala University, Uppsala, Sweden | 📅 2024 – 2026  
